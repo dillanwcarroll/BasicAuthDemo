@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DemoDB", "DemoDB\DemoDB.sqlproj", "{E9E8F6F9-8D4E-445A-9CEA-AF0AC28DE352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI", "DemoAPI\DemoAPI.csproj", "{0DAEF5F3-3488-4A17-8ABA-C4F808C9A9A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E8F6F9-8D4E-445A-9CEA-AF0AC28DE352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E8F6F9-8D4E-445A-9CEA-AF0AC28DE352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E8F6F9-8D4E-445A-9CEA-AF0AC28DE352}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E9E8F6F9-8D4E-445A-9CEA-AF0AC28DE352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E8F6F9-8D4E-445A-9CEA-AF0AC28DE352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E8F6F9-8D4E-445A-9CEA-AF0AC28DE352}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0DAEF5F3-3488-4A17-8ABA-C4F808C9A9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAEF5F3-3488-4A17-8ABA-C4F808C9A9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAEF5F3-3488-4A17-8ABA-C4F808C9A9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAEF5F3-3488-4A17-8ABA-C4F808C9A9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3399CFEB-133A-4255-881A-CA580DEA0B41}
+	EndGlobalSection
+EndGlobal
